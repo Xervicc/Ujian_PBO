@@ -1,0 +1,16 @@
+{
+    "name": "yrost/ujian_pbo",
+    "description": "Ujian",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Syamdesta"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.72",
+        "phpunit/php-timer": "^5.0"
+    },
+    "scripts": {"server" : "php -S localhost:8080"}
+    }
+
